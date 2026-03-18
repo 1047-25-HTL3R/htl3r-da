@@ -186,7 +186,7 @@
       authors: authors,
       date: date,
     )
-    //util.insert-blank-page()
+    util.insert-blank-page()
   }
   set page(
     paper: "a4",
@@ -261,13 +261,13 @@
   }
   if not disable-cover {
     pages.abstract.create-page(abstract-german, abstract-english)
-    //util.insert-blank-page()
+    util.insert-blank-page()
     pages.preamble.create-page(supervisor-incl-ac-degree, sponsors)
-    //util.insert-blank-page()
+    util.insert-blank-page()
     pages.sworn-statement.create-page(authors, date, generative-ai-clause)
-    //util.insert-blank-page()
+    util.insert-blank-page()
     pages.create-tables()
-    //util.insert-blank-page()
+    util.insert-blank-page()
   }
   set page(
     footer: context {
@@ -295,17 +295,17 @@
   counter(page).update(1)
   [#metadata("DA_BEGIN")<DA_BEGIN>]
   body
-  //util.insert-blank-page()
+  util.insert-blank-page()
   set heading(numbering: none)
   if abbreviation != none {
     pages.abbreviation.create-page()
-    //util.insert-blank-page()
+    util.insert-blank-page()
     pages.glossary.create-page()
-    //util.insert-blank-page()
+    util.insert-blank-page()
   }
   if bibliography-content != none {
     pages.bibliography.create-page(bibliography: bibliography-content)
-    //util.insert-blank-page()
+    util.insert-blank-page()
   }
   if print-ref {
     pages.printref.create-page()
