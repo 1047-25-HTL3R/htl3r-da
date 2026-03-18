@@ -14,10 +14,10 @@
 
 #let create-tables() = {
   toc.create-page()
-  util.insert-blank-page()
+  //util.insert-blank-page()
   tot.create-page()
-  util.insert-blank-page()
+  //util.insert-blank-page()
   tof.create-page()
-  util.insert-blank-page()
+  //util.insert-blank-page()
   tol.create-page()
 }

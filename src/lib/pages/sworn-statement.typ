@@ -16,10 +16,10 @@
   /*Die verwendeten Hilfsmittel wurden vollständig und wahrheitsgetreu inkl. Produktversion
   und Prompt ausgewiesen.*/
 
-  Für die Erstellung g der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools ... (z. B. ChatGPT, Grammarly Go, Midjourney) zu folgendem Zweck verwendet: [Bitte hier Einsatzgebiet anführen.]. Die verwendeten Hilfsmittel wur-den vollständig und wahrheitsgetreu inkl. Produktversion und Prompt ausgewiesen.
+  Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools ... (z. B. ChatGPT, Grammarly Go, Midjourney) zu folgendem Zweck verwendet: [Bitte hier Einsatzgebiet anführen.]. Die verwendeten Hilfsmittel wur-den vollständig und wahrheitsgetreu inkl. Produktversion und Prompt ausgewiesen.
 
   #if generative-ai-clause == none [
-    Es wurden keine Hilfsmittel generativer KI-Tools für die Erstellung der Arbeit verwendet.
+
   ] else [
     #generative-ai-clause
   ]
