@@ -16,7 +16,8 @@
   /*Die verwendeten Hilfsmittel wurden vollständig und wahrheitsgetreu inkl. Produktversion
   und Prompt ausgewiesen.*/
 
-  Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools ... (z. B. ChatGPT, Grammarly Go, Midjourney) zu folgendem Zweck verwendet: [Bitte hier Einsatzgebiet anführen.]. Die verwendeten Hilfsmittel wur-den vollständig und wahrheitsgetreu inkl. Produktversion und Prompt ausgewiesen.
+  Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools zu folgendem Zweck verwendet: ChatGPT, Claude, Gemini und Perplexity [sprachliche Überarbeitung und stilistische Verbesserung von Textpassagen, Erstellung von Definitionen für das Glossar].
+  Die verwendeten Hilfsmittel wurden vollständig und wahrheitsgetreu inkl. Produktversion und Prompt ausgewiesen.
 
   #if generative-ai-clause == none [
 
