@@ -19,7 +19,7 @@
   Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools zu folgendem Zweck verwendet:
 
   #if generative-ai-clause == none [
-    Es wurden die Tools ChatGPT (GPT-5.2) und Gemini (Gemini 3.0) genutzt, um Verfeinerungen von Textpassagen sowie Grammatik- und Rechtschreibkorrekturen durchzufühen.
+    Es wurden die Tools ChatGPT (GPT-5.2) und Gemini (Gemini 3.0) genutzt, um Verfeinerungen von Textpassagen sowie Grammatik- und Rechtschreibkorrekturen durchzuführen.
   ] else [
     #generative-ai-clause
   ]
