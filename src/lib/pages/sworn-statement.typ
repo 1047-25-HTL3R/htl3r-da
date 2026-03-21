@@ -12,15 +12,14 @@
   oder sinngemäß entnommen sind, habe ich unter Angabe der Quelle und Einhaltung der
   Regeln wissenschaftlichen Zitierens kenntlich gemacht. Diese Versicherung umfasst auch
   in der Arbeit verwendete bildliche Darstellungen, Tabellen, Skizzen und Zeichnungen.
-
   /*Die verwendeten Hilfsmittel wurden vollständig und wahrheitsgetreu inkl. Produktversion
   und Prompt ausgewiesen.*/
 
-  Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools zu folgendem Zweck verwendet: ChatGPT, Claude, Gemini und Perplexity [sprachliche Überarbeitung und stilistische Verbesserung von Textpassagen, Erstellung von Definitionen für das Glossar].
-  Die verwendeten Hilfsmittel wurden vollständig und wahrheitsgetreu inkl. Produktversion und Prompt ausgewiesen.
+
+  Für die Erstellung der Arbeit habe ich auch folgende Hilfsmittel generativer KI-Tools zu folgendem Zweck verwendet:
 
   #if generative-ai-clause == none [
-
+    Es wurden die Tools ChatGPT (GPT-5.2) und Gemini (Gemini 3.0) genutzt, um Verfeinerungen von Textpassagen sowie Grammatik- und Rechtschreibkorrekturen durchzufühen.
   ] else [
     #generative-ai-clause
   ]
